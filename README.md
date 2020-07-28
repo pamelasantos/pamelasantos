@@ -17,13 +17,13 @@
 
 Sou formada em Sistemas de Informação 🎓 pela Universidade Federal de Lavras, possuo MBA em Inteligência Artificial & Machine Learning 🤖 pela FIAP e atualmente trabalho como Engenheira de Dados no Itaú Unibanco. Estou sempre buscando aprender sobre novas tecnologias, linguagens e formas de como resolver problemas reais. 
 
-❤️ Amo compartilhar conhecimento sobre Big Data e Engenharia de Dados, principamente com mulheres, uma grande minoria na área de tecnologia.
+Amo compartilhar conhecimento sobre Big Data e Engenharia de Dados, principamente com mulheres, uma grande minoria na área de tecnologia ❤️ 
 
 Já atuei em projetos no Reino Unido 🇬🇧, Venezuela 🇻🇪, Espanha 🇪🇸 e Brasil 🇧🇷, sendo responsável por desenhar e desenvolver soluções de captura, disponibilização, análise e visualização de dados, além de scripts, malhas, e regras utilizando conhecimentos do negócio, estrutura de sistemas, arquitetura e tecnologia.
 
 Durante a faculdade desenvolvi pesquisas acadêmicas 🔍 na área de Governança de TI e Inovação em Software, realizando coleta de dados, data mining, cleaning, visualization, exploration, feature engineering, análises estatística, descritiva e de sentimento, o que resultou em diversos artigos publicados em periódicos e revistas internacionais, e capítulos de livros. 
 
-Também participei do programa Ciência sem Fronteiras, fiz graduação sanduíche nos EUA 🗽, em Murray State University.
+Também participei do programa Ciência sem Fronteiras, fiz graduação sanduíche nos EUA 🗽 em Murray State University.
 
 
 #### Mais sobre mim...
