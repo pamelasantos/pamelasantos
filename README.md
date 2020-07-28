@@ -30,5 +30,5 @@ Também participei do programa Ciência sem Fronteiras, fiz graduação sanduíc
 
 - 🌱 Atualmente trabalho com Python, Shell Script, Teradata, Hadoop, Hive, SQL, Sqoop, etc 💻.
 - 🔭 Estudando Spark e também para certificação da AWS - Solutions Architect 🚀.
-- 📫 Como entrar em contato: [Email](pam.santos91@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pamela-santos/)| [Instagram](https://www.instagram.com/littlecodegirl/)
+- 📫 Como entrar em contato: pam.santos91@gmail.com | [LinkedIn](https://www.linkedin.com/in/pamela-santos/)| [Instagram](https://www.instagram.com/littlecodegirl/)
 - 💻 Já trabalhei com OBIEE, OFSAA, ODI, SQL Server, IBM Watson, Microsoft Cortana.
