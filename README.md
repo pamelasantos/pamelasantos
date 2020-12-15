@@ -15,7 +15,7 @@
 
 #### Tech Girl, Potterhead, Engenheira de dados e entusiasta em Ciência de Dados.
 
-Sou formada em Sistemas de Informação 🎓 pela Universidade Federal de Lavras, possuo MBA em Inteligência Artificial & Machine Learning 🤖 pela FIAP e atualmente trabalho como Engenheira de Dados no Itaú Unibanco. Estou sempre buscando aprender sobre novas tecnologias, linguagens e formas de como resolver problemas reais. 
+Sou formada em Sistemas de Informação 🎓 pela Universidade Federal de Lavras, possuo MBA em Inteligência Artificial & Machine Learning 🤖 pela FIAP e atualmente trabalho como Engenheira de Dados na Spiti. Estou sempre buscando aprender sobre novas tecnologias, linguagens e formas de como resolver problemas reais. 
 
 Amo compartilhar conhecimento sobre Big Data e Engenharia de Dados, principamente com mulheres, uma grande minoria na área de tecnologia ❤️ 
 
